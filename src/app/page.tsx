@@ -1,0 +1,1 @@
+import Link from "next/link"; import { ArrowRight, Building, Mail, MapPin, Phone, ShieldCheck, LineChart } from "lucide-react"; import { Button } from "@/components/ui/button"; import { CardinalLogo } from "@/components/cardinal-logo"; export default function Home() { return <div className="flex flex-col min-h-screen">...</div>; }
